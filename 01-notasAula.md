@@ -1,5 +1,24 @@
 # Notas de aula da disciplina
 
+## Aula 4
+  - Conceitos de Cloud Computing (Computação na nuvem)
+  - IoT - Internet of Things (Internet das coisas)
+  - VANTAGENS
+    - flexibilidade
+    - autonomia
+    - agilidade
+    - integração de tecnologias
+   - DESVANTAGENS
+    - segurança
+    - dependência
+  -ARQUITETURA
+    - Cliente-servidor
+    - Ponto-a-ponto
+   - Modelos arquiteturais de serviços
+    - IaaS
+    - PaaS
+    - SaaS
+
 ## Aula 3
   - Apresentação da Oficina de Git
   - Apresentação, discussão e 1° trabalho avaliado
