@@ -7,6 +7,13 @@
    - O resultado de pesquisa deve ser colocado no arquivo glossorio.md do repositório de cada aluno
    - Enviar para alexz@ufn.edu.br o link do repositório contendo o glossario.md
     - O assunto da mensagem é: "Trabalho Fundamentos SI"
+   - Data: 19/03/2026
+   - Hora: 20:00
+   - Algumas curiosidades: os sitemas abaixo são de que tipo de SI?
+    - gov.br
+    - Netflix
+    - Minha agenda UFN
+    - Sistema de Imposto de Renda do Governo Brasileiro
 
 ## Aula 4
   - Conceitos de Cloud Computing (Computação na nuvem)
