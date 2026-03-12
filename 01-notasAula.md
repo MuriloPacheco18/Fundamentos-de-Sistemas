@@ -1,5 +1,13 @@
 # Notas de aula da disciplina
 
+## Aula 5
+  - Tarefa avaliativa
+  - Assunto: Tipos de Sistemas de Informação
+  - Pesquisar, escrever e dar exemplos dos diferentes tipos de Sistemas de Informação
+   - O resultado de pesquisa deve ser colocado no arquivo glossorio.md do repositório de cada aluno
+   - Enviar para alexz@ufn.edu.br o link do repositório contendo o glossario.md
+    - O assunto da mensagem é: "Trabalho Fundamentos SI"
+
 ## Aula 4
   - Conceitos de Cloud Computing (Computação na nuvem)
   - IoT - Internet of Things (Internet das coisas)
