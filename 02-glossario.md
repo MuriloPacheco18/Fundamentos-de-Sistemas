@@ -22,13 +22,13 @@ Neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
 
 ## Atividade Aula 5 - Os sitemas abaixo são de que tipo de SI?
 
-gov.br
+-<b>gov.br</b>
 → Sistemas de Processamento de Transações (SPT)
-Netflix
+-<b>Netflix</b>
 → Sistema de Apoio à Decisão (SAD)
-Minha Agenda UFN
+-<b>Minha Agenda UFN</b>
 → Sistema de Informação Gerencial (SIG)
-Sistema de Imposto de Renda do Governo Brasileiro
+-<b>Sistema de Imposto de Renda do Governo Brasileiro</b>
 → Sistemas de Processamento de Transações (SPT)
 
 
