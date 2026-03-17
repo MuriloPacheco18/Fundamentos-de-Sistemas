@@ -27,6 +27,7 @@ Neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
 → Sistemas de Processamento de Transações (SPT) 
 
 - <b>Netflix</b>
+
 → Sistema de Apoio à Decisão (SAD)
 
 - <b>Minha Agenda UFN</b>
