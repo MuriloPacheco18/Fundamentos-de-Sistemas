@@ -20,7 +20,7 @@ Neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
   - <b>SISTEMA</b>: Conjunto de elementos que interagem entre si em prol de solucionar e fazer funcionar um esquema.
   - <b>SECaaS</b>: é a terceirização da sua segurança digital para um provedor em nuvem, você assina um serviço que cuida de tudo isso via internet. Exemplo:Cloudflare
 
-## Atividade Aula 5 - Os sitemas abaixo são de que tipo de SI?
+## Atividade Aula 5 - Os sistemas abaixo são de que tipo de SI?
 
 - <b>gov.br</b>
 
