@@ -1,5 +1,10 @@
 # Notas de aula da disciplina
 
+## Aula 6
+  - Debate sobre tipo de sistemas de informação
+  - CRUD
+  - ERP, CRM e entre outros.
+
 ## Aula 5
   - Tarefa avaliativa
   - Assunto: Tipos de Sistemas de Informação
