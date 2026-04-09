@@ -8,7 +8,7 @@ Neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
   - <b>DBaaS</b>: é o modelo onde você "aluga" apenas a funcionalidade do banco de dados, sem precisar gerenciar o servidor, o sistema operacional ou a instalação do software. Exemplo:Microsoft Azure
   - <b>FaaS</b>: É popularmente conhecido como Serverless (Computação sem Servidor), que ativa quando eventos específicos acontecem, ou seja um servidor que não é 24 horas por dia. Exemplo:Google Cloud
   - <b>IaaS</b>: É um modelo de computação em nuvem que deixa tudo manual e editavel a gosto do comprador. Exemplo:Microsoft Azure
-  - <b>Iot</b>:Refere-se a uma rede de objetos físicos — "coisas" — equipados com sensores, software e tecnologias que conectam e trocam dados via internet. Exemplo:Alexa
+  - <b>Iot(Internet Das Coisas)</b>:Refere-se a uma rede de objetos físicos — "coisas" — equipados com sensores, software e tecnologias que conectam e trocam dados via internet. Exemplo:Alexa
   - <b>PaaS</b>: É um modelo de computação nuvem que oferece espaço para desenvolvedores,já vem pronto as partes chatas. Exemplo:Google App Engine
   - <b>SaaS</b>: É um software pronto para uso via navegador ou app. Você é apenas o usuário; não vê código, nem servidor, nem banco de dados. Exemplo:Netflix
   - <b>Sistemas Pervasivos</b>: É um sistema fixo no ambiente, que coleta informações do usuário para melhor experiência possível, como por exemplo um Ar condicionado ou uma Alexa.
