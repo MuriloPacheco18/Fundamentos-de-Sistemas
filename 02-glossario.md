@@ -12,7 +12,7 @@ Neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
   - <b>PaaS</b>: É um modelo de computação nuvem que oferece espaço para desenvolvedores,já vem pronto as partes chatas. Exemplo:Google App Engine
   - <b>SaaS</b>: É um software pronto para uso via navegador ou app. Você é apenas o usuário; não vê código, nem servidor, nem banco de dados. Exemplo:Netflix
   - <b>Sistemas Pervasivos</b>: É um sistema fixo no ambiente, que coleta informações do usuário para melhor experiência possível, como por exemplo um Ar condicionado ou uma Alexa.
-  - <b>Sistemas Ubíquos</b>: É sistema que está presente no seu dia a dia, pode ser num relógio, numa roupa ou até mesmo num móvel.
+  - <b>Sistemas Ubíquos</b>: É sistema que está presente no seu dia a dia, pode ser num relógio, numa roupa ou até mesmo num móvel. A clara diferença dele pro Pervasivo, que a função dele é não ser tão perceptível no seu dia a dia quanto o outro.
   - <b>SPT</b>: Sistemas de Processamento de Transações, são responsáveis por registrar e processar operações do dia a dia de uma organização, como vendas, pagamentos e controle de estoque. Exemplo: sistema de vendas de uma rede como Walmart
   - <b>SIG</b>: Sistemas de Informação Gerencial, organizam e transformam dados operacionais em informações úteis para os gestores. Com eles, é possível gerar relatórios e acompanhar o desempenho da empresa. Exemplo: relatórios gerenciais usados por empresas como Ambev
   - <b>SAD</b>: Sistemas de Apoio à Decisão, ajudam na tomada de decisões mais complexas, analisando dados e simulando diferentes cenários. Exemplo: sistemas de análise de dados da Netflix
