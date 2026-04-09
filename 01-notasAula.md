@@ -1,5 +1,11 @@
 # Notas de aula da disciplina
 
+## Aula 7
+  - Nuvem
+  - IoT
+  - Sistema Pervasivo
+  - Sistema Ubíquo
+
 ## Aula 6
   - Debate sobre tipo de sistemas de informação
   - CRUD
