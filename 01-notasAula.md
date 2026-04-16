@@ -2,7 +2,7 @@
 
 ## Aula 7
   - Nuvem
-  - IoT
+  - IoT: todo lugar, todo o momento e conectada
   - Sistema Pervasivo
   - Sistema Ubíquo
 
