@@ -1,5 +1,22 @@
 # Notas de aula da disciplina
 
+## Aula 8
+  - Boas práticas de desenvolvimento de software em GRUPO e EQUIPE
+  - Sistema de Versionamento de código: git + Github
+    - controla versões
+    - controla backups
+    - controla equipes de desenvolvimento coletivo
+    - ...
+  - Sistema Kanban: METODOLOGIA DE GERENCIAMENTO DE TAREFAS/ATIVIDADES: TRELLO
+   - foi criado pela toyota: com postit
+   - coluna 1 (a fazer ou TO DO)
+   - coluna 2 (fazendo ou DOING)
+   - coluna 3 (feito ou DONE)
+ - ATIVIDADE:
+  - pesquisar e colocar no glossário pessoal:
+  - os conceitos de técnica versus metadologia
+  - pesquisar como integrar (se existe) trello com github
+
 ## Aula 7
   - Nuvem
   - IoT: todo lugar, todo o momento e conectada
