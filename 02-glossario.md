@@ -23,7 +23,7 @@ Neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
   - <b>SISTEMA</b>: Conjunto de elementos que interagem entre si em prol de solucionar e fazer funcionar um esquema.
   - <b>SECaaS</b>: é a terceirização da sua segurança digital para um provedor em nuvem, você assina um serviço que cuida de tudo isso via internet. Exemplo:Cloudflare
 
-## Atividade Aula 8 - Modelo TCP/IP
+## Atividade Aula 7 - Modelo TCP/IP
   - <b>Modelo TCP/IP</b>: É um aglomerado de protocolos que dita como os dispositivos se comunicam na internet, ele define como os dados são enviados,recebidos e organizados. Ele tem 4 camadas,Camada de Aplicação(Onde ficam os programas que você usa) | Camada de Transporte (Responsável por garantir a entrega dos dados.)| Camada de Internet(Cuida do endereçamento e roteamento dos dados.) | Camada de Acesso à Rede(Lida com a parte física da transmissão), cada uma dessas camadas tem sua função específica. Mas o Modelo TCP/IP tem alguns problemas, falta de segurança nativa, ele por padrão não vem criptografado, isso significa que os dados podem ser interceptados ou alterados durante a transmissão, um aplicativo que ocorre bastante isso é o FileZilla; Não atualizar o software é outro problema que pode ocorrer, mas isso é um problema humano, caso o programador não atualizar pode sofrer ataque. Para evitar esses problemas, precisariamos aumentar a atenção dos programadores para não ocorrer essas invasão e criptografia no enviado dos dados para evitar invasão de hackers.
 
 ## Atividade Aula 5 - Os sistemas abaixo são de que tipo de SI?
