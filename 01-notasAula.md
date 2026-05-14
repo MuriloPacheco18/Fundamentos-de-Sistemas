@@ -5,10 +5,10 @@
   - CRM
   - CRUD
   - Sistema gestão pizzaria
-    -gestão de usuários
-    -gestão de insumo
-    -gestão de fornecedor
-    -*gestão cliente* (Importante!!!)
+      -gestão de usuários
+      -gestão de insumo
+      -gestão de fornecedor
+      -*gestão cliente* (Importante!!!)
     
 
 ## Aula 8
