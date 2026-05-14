@@ -1,5 +1,15 @@
 # Notas de aula da disciplina
 
+##Aula 13
+  - Sistema Web e gerencimento de usuário
+  - CRUD
+  -Sistema gestão pizzaria
+    -gestão de usuários
+    -gestão de insumo
+    -gestão de fornecedor
+    -*gestão cliente* (Importante!!!)
+    
+
 ## Aula 8
   - Boas práticas de desenvolvimento de software em GRUPO e EQUIPE
   - Sistema de Versionamento de código: git + Github
