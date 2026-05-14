@@ -4,8 +4,7 @@
   - Sistema Web e gerencimento de usuário
   - CRM
   - CRUD
-
-  -Sistema gestão pizzaria
+  - Sistema gestão pizzaria
     -gestão de usuários
     -gestão de insumo
     -gestão de fornecedor
