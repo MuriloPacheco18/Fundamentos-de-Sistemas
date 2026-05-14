@@ -23,6 +23,9 @@ Neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
   - <b>SISTEMA</b>: Conjunto de elementos que interagem entre si em prol de solucionar e fazer funcionar um esquema.
   - <b>SECaaS</b>: é a terceirização da sua segurança digital para um provedor em nuvem, você assina um serviço que cuida de tudo isso via internet. Exemplo:Cloudflare
 
+## Atividade Aula 13 - CRM
+  - <b>CRM</b>: CRM (Customer Relationship Management) é uma ferramenta usada para gerenciar o relacionamento com clientes. Ele ajuda empresas a organizar contatos, acompanhar vendas, registrar atendimentos e controlar negociações em um só lugar. Com um CRM, é possível melhorar o atendimento, aumentar as vendas, automatizar processos e manter todo o histórico de interação com os clientes, facilitando a comunicação e a tomada de decisões.
+
 ## Atividade Aula 8 - Metodologia Vs Técnica
   - <b>Metodologia</b>: É a explicação detalhada da abordagem de pesquisa e estudos. Dito de outra maneira, descreve a estratégia geral que dita como as pesquisas e estudos devem ser realizados, como se fosse um plano que te ajuda a estruturar o caminho.
   - <b>Técnica</b>: É um conjunto de procedimentos, métodos ou recursos aplicados para realizar uma atividade específica com eficiência, comparando com a metodologia, a técnica é a ferramente usada no caminho, ou seja, enquanto um você planeja o caminho o outro é você no caminho utilizando o que sabe.
