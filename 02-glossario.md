@@ -23,6 +23,10 @@ Neste arquivo, são armazenadas palavras ou expressões estudadas na disciplina,
   - <b>SISTEMA</b>: Conjunto de elementos que interagem entre si em prol de solucionar e fazer funcionar um esquema.
   - <b>SECaaS</b>: é a terceirização da sua segurança digital para um provedor em nuvem, você assina um serviço que cuida de tudo isso via internet. Exemplo:Cloudflare
 
+## Atividade Aula 14 - VM e VENV
+  - <b>VM</b>: Uma VM (Virtual Machine / Máquina Virtual) é um computador “simulado” que roda dentro de outro computador físico. Ela funciona como um sistema completo isolado, com seu próprio sistema operacional, memória, disco e rede — mesmo compartilhando o hardware real da máquina principal, a máquina física é o hospedeiro e a virtual é o hospede.
+  - <b>VENV</b>: O venv (Virtual Environment) é uma ferramenta do Python usada para criar ambientes virtuais isolados para projetos. Isso significa que cada projeto pode ter suas próprias bibliotecas e versões sem causar conflito com outros projetos ou com o Python instalado no sistema. Quando você cria um venv, o Python gera uma pasta contendo uma cópia do interpretador e um pip separado, permitindo instalar dependências apenas naquele ambiente. Assim, um projeto pode usar uma versão específica de uma biblioteca enquanto outro usa uma versão diferente.
+
 ## Atividade Aula 13 - CRM
   - <b>CRM</b>: CRM (Customer Relationship Management) é uma ferramenta usada para gerenciar o relacionamento com clientes. Ele ajuda empresas a organizar contatos, acompanhar vendas, registrar atendimentos e controlar negociações em um só lugar. Com um CRM, é possível melhorar o atendimento, aumentar as vendas, automatizar processos e manter todo o histórico de interação com os clientes, facilitando a comunicação e a tomada de decisões.
 
