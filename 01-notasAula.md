@@ -1,11 +1,11 @@
 # Notas de aula da disciplina
 
-##Aula 14
+## Aula 14
   - Virtualização de Máquinas
   - VENV ou PYENV (Virtual Envirament)
   - DOCKER
 
-##Aula 13
+## Aula 13
   - Sistema Web e gerencimento de usuário
   - CRM
   - CRUD
